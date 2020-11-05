@@ -565,6 +565,7 @@ color: #fff;
 .contact .right form .button button:hover{
     color: crimson;
     background: none;
+    background-color: blanchedalmond;
 }
 
 /* footer section styling */
