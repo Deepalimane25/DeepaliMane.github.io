@@ -562,10 +562,10 @@ color: #fff;
     cursor: pointer;
     transition: all 0.3s ease;
 }
-.contact .right form .button button:hover{
+/* .contact .right form .button button:hover{
     color: crimson;
     background: none;
-}
+} */
 
 /* footer section styling */
 footer{
