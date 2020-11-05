@@ -545,6 +545,9 @@ section .title::after{
 .contact .right form .button a{
 color: #fff;
 }
+.contact .right form .button a:hover{
+    color: crimson;
+    }
 .contact .right form .button button{
     width: 100%;
     height: 100%;
