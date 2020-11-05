@@ -492,7 +492,7 @@ section .title::after{
 }
 
 .contact .contact-content .info .head a{
-    text-decoration: none;
+    color: black;
 }
 .contact .contact-content .info .sub-title{
     color: #333;
