@@ -494,8 +494,8 @@ section .title::after{
     color: #333;
 }
 
-.contact .contact-content .info a{
-    color: black;
+.contact .contact-content .info .link{
+    /* color: black; */
     text-decoration: none;
 }
 .contact .right form .fields{
