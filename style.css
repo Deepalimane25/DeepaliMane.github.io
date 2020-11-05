@@ -542,7 +542,7 @@ section .title::after{
     width: 170px;
 }
 
-.contact .right form .button .link{
+.contact .right form .button a{
     text-decoration: none;
 }
 .contact .right form .button button{
