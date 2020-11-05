@@ -541,6 +541,10 @@ section .title::after{
     height: 47px;
     width: 170px;
 }
+
+.contact .right form .button .link{
+    text-decoration: none;
+}
 .contact .right form .button button{
     width: 100%;
     height: 100%;
