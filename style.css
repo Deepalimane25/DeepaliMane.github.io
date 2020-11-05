@@ -489,6 +489,9 @@ section .title::after{
 }
 .contact .contact-content .info .head{
     font-weight: 500;
+}
+
+.contact .contact-content .info .head a{
     text-decoration: none;
 }
 .contact .contact-content .info .sub-title{
