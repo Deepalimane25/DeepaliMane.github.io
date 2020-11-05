@@ -543,7 +543,7 @@ section .title::after{
 }
 
 .contact .right form .button a{
-    text-decoration: none;
+color: #fff;
 }
 .contact .right form .button button{
     width: 100%;
